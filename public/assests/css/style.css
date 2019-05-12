@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    width: auto;
+    margin: auto;
+    max-width: 1020px;
+    padding: 210px 32px;
+    background-image: url("../images/burger_background.jpg")
+}
+
+#test {
+    color: red;
+}
